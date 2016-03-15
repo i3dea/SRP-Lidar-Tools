@@ -1,0 +1,1 @@
+conda create -n srp python ipython numpy scikit-learn scikit-image
